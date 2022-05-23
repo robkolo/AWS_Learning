@@ -6,7 +6,7 @@ Resources:
     Type: 'AWS::S3::Bucket'
     Description: A Place for Mike to store his faces.
     Properties:
-      BucketName: "mikesfaceinabucket"
+      BucketName: "mikesfaceinabucket2"
       AccessControl: Private
       PublicAccessBlockConfiguration:
         BlockPublicAcls: true
